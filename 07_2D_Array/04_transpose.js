@@ -3,7 +3,8 @@
 // Example 2: Input: matrix = [[1,2,3],[4,5,6]], Output: [[1,4],[2,5],[3,6]]
 
 // Logic:
-// - The transpose of a matrix flips the matrix over its main diagonal, switching the matrix's row and column indices.
+// - The transpose of a matrix flips the matrix over its main diagonal
+// - switching the matrix's row and column indices.
 // - We will create a new 2D array `result` with the number of rows equal to the number of columns of the input matrix and vice versa.
 // - We iterate through the input matrix and assign the elements to the `result` matrix such that `result[col][row] = matrix[row][col]`.
 

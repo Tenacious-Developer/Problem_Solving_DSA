@@ -9,6 +9,4 @@ function pattern(n) {
 }
 
 pattern(4);
-pattern(5);
-pattern(6);
 

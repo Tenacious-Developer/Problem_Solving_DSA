@@ -6,7 +6,8 @@
 // Output: [5,6]
 
 // Logic:
-// - We iterate through the array, marking the presence of each number by negating the element at its corresponding index.
+// - We iterate through the array, 
+// - marking the presence of each number by negating the element at its corresponding index.
 // - After marking the presence of all numbers, we iterate again to find the missing numbers (positive elements).
 
 // Pseudo-code:

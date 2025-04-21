@@ -1,7 +1,7 @@
 // an object is an unordered collection of key-value pairs. Each key-value pair is called a property.
 // creating object using curly brackets
 
-let obj = {}; // empty object
+let obj = {}; // empty bject
 
 let obj1 = {name = "mohit", age = 24};
 
